@@ -1,0 +1,3 @@
+# Runtime for the orchestration graph. Without it main.py falls back to the
+# built-in sequential runner in src/graph.py.
+langgraph>=0.2.0
